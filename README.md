@@ -8,9 +8,7 @@
 
 ✒️ In my free time i like:🏋️‍♂️,🎮,🍿;
 
-### I have worked with.. 🔧
-
-**Tecnologias e Ferramentas**
+### I have worked with... 🔧
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
