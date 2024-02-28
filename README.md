@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredsilva21" alt="fredsilva21" /></a> </p>
 
-- 🌱 I’m currently learning **MySql,Vue,Vuetify**
+- 🌱 I’m currently learning **Java,Node**
 
 - 📫 How to reach me **fredsilva43@gmail.com**
 
