@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredsilva21" alt="fredsilva21" /></a> </p>
 
-- 🌱 I’m currently learning [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)t
+- 🌱 I’m currently learning     [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 
 - 📫 How to reach me **fredsilva43@gmail.com**
 
