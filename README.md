@@ -19,13 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredsilva21&show_icons=true&locale=en" alt="fredsilva21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredsilva21&theme=highcontrast" alt="fredsilva21" /></p>
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
